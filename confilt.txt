@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the second fixed conflit.txt
+=======
+this is the first confilt
+>>>>>>> 23630b4ebbfa448e4078dc76cb4c8efe9f3db277
